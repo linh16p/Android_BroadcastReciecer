@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My BroadcastReceiver</string>
+    <string name="broadcast_intent">Broadcast Intent</string>
+</resources>
